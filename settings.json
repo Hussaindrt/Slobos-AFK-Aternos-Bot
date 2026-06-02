@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " GWRTS_4.aternos.me ",
+    "ip": "eel.aternos.host:61695",
     "port": 61695,
     "version": "",
     "try-creative": false
